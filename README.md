@@ -40,7 +40,7 @@ This tool is intentionally **boring**.
 ## Installation
 
 Clone the repo:
-git clone https://github.com/YOUR_USERNAME/Brutal-diary.git
+git clone https://github.com/Vyazma12/Brutal-diary.git
 cd Brutal-diary
 
 (Optional but recommended) install cryptography:
