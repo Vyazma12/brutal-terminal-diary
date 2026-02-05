@@ -47,7 +47,7 @@ cd Brutal-diary
 
 pip install cryptography
 
-Usage
+## Usage
 -Run it:
 -"python3 brutal_diary.py"
 
@@ -62,7 +62,7 @@ Follow the prompt
 Rate your mood
 Done
 
-Commands:
+## Commands:
 
 /read        Read unlocked entries
 /search kw  Search unlocked entries
@@ -78,7 +78,7 @@ This tool does not protect against:
 
 Threat model: curiosity, not nation-states.
 
-Philosophy
+## Philosophy
 
 This is not a productivity app.
 This is not therapy software.
@@ -87,11 +87,11 @@ This is not “self-improvement”.
 It’s a place to dump thoughts
 and let time decide whether they still matter.
 
-License
+## License
 
 Do whatever you want, just don’t blame me.
 
-Disclaimer
+## Disclaimer
 
 This project was built for personal use.
 If it helps you, cool.
